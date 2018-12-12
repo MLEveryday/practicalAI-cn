@@ -1,5 +1,4 @@
-# AI实战
-[practicalAI](https://github.com/GokuMohandas/practicalAI) 中文版
+# AI实战-[practicalAI](https://github.com/GokuMohandas/practicalAI) 中文版
 
 让你有能力使用机器学习从数据中获取有价值的见解。
 - 🔥 使用 [PyTorch](https://pytorch.org/) 实现基本的机器学习算法和深度神经网络。
