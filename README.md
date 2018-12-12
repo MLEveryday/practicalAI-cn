@@ -1,4 +1,6 @@
 # AI实战-[practicalAI](https://github.com/GokuMohandas/practicalAI) 中文版
+[![Colab](https://img.shields.io/badge/launch-Google%20Colab-orange.svg)](https://github.com/GokuMohandas/practicalAI#notebooks)
+[![MIT](https://img.shields.io/badge/license-MIT-brightgreen.svg)](https://github.com/GokuMohandas/practicalAI/blob/master/LICENSE)
 
 让你有能力使用机器学习从数据中获取有价值的见解。
 - 🔥 使用 [PyTorch](https://pytorch.org/) 实现基本的机器学习算法和深度神经网络。
