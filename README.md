@@ -7,14 +7,14 @@
 - 📦 不仅仅是教程，而是学习产品级的面向对象机器学习编程。
 
 ## Notebooks
-|基础|深度学习|进阶|话题|
+|基础|深度学习|进阶|主题|
 |-|-|-|-|
 | 📓 [Notebooks]()|🔥 [PyTorch]()|📚 [高级循环神经网络]()|📸 [计算机视觉]()|
-| 🐍 [Python]()|🎛️ [多层感知]()|🏎️ Highway and Residual Networks|⏰ Time Series Analysis|
-|🔢 [NumPy]()|🔎 [数据和模型]()|🔮 自编码器|🏘️ Topic Modeling|
+| 🐍 [Python]()|🎛️ [多层感知]()|🏎️ Highway and Residual Networks|⏰ 时间序列分析|
+|🔢 [NumPy]()|🔎 [数据和模型]()|🔮 自编码器|🏘️ 主题模型|
 | 🐼 [Pandas]() |📦 [面向对象的机器学习]()|🎭 生成对抗网络|🛒 推荐系统|
-|📈 [线性回归]()|🖼️ [卷积神经网络]()|🐝 Spatial Transformer Networks|🗣️ Pretrained Language Modeling|
-|📊 [逻辑回归]()|📝 [嵌入层]()||🤷 Multitask Learning|
+|📈 [线性回归]()|🖼️ [卷积神经网络]()|🐝 空间变换网络|🗣️ 预训练语言模型|
+|📊 [逻辑回归]()|📝 [嵌入层]()||🤷 多任务学习|
 |🌳 [随机森林]()|📗 [递归神经网络]()||🎯 Low Shot Learning|
 |💥 k-均值聚类|||🍒 强化学习|
 
