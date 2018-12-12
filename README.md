@@ -27,7 +27,7 @@
 
 <img src="https://raw.githubusercontent.com/GokuMohandas/practicalAI/master/images/copy_to_drive.png">
 
-5. 通过去掉标题中的`备份`完成 notebook 重命名；
+5. 通过去掉标题中的`副本`完成 notebook 重命名；
 6. 运行代码、修改等，所有这些都会自动保存到你的个人 Google Drive。
 
 ## 贡献 notebooks
