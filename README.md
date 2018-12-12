@@ -13,7 +13,7 @@
 |🔢 [NumPy]()|🔎 [数据和模型]()|🔮 自编码器|🏘️ 主题模型|
 | 🐼 [Pandas]() |📦 [面向对象的机器学习]()|🎭 生成对抗网络|🛒 推荐系统|
 |📈 [线性回归]()|🖼️ [卷积神经网络]()|🐝 空间变换网络|🗣️ 预训练语言模型|
-|📊 [逻辑回归]()|📝 [嵌入层]()||🤷 多任务学习|
+|📊 [逻辑回归](https://colab.research.google.com/github/MLEveryday/practicalAI-cn/blob/master/notebooks/04_Linear_Regression.ipynb)|📝 [嵌入层]()||🤷 多任务学习|
 |🌳 [随机森林]()|📗 [递归神经网络]()||🎯 Low Shot Learning|
 |💥 k-均值聚类|||🍒 强化学习|
 
