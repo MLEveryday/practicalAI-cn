@@ -47,3 +47,25 @@
 8. 点击 `Propose changes`。
 
 <img src="https://raw.githubusercontent.com/GokuMohandas/practicalAI/master/images/commit.png">
+
+## 贡献列表
+欢迎任何人参与和完善。
+
+|Notebook|译者|
+|--|--|
+|00_Notebooks.ipynb|[@amusi](https://github.com/amusi)|
+|01_Python.ipynb|[@amusi](https://github.com/amusi)|
+|02_NumPy.ipynb|[@amusi](https://github.com/amusi)|
+|03_Pandas.ipynb|[@amusi](https://github.com/amusi)|
+|04_Linear_Regression.ipynb|[@jasonhhao](https://github.com/jasonhhao)|
+|05_Logistic_Regression.ipynb|[@jasonhhao](https://github.com/jasonhhao)|
+|06_Random_Forests.ipynb|[@jasonhhao](https://github.com/jasonhhao)|
+|07_PyTorch.ipynb||
+|08_Multilayer_Perceptron.ipynb||
+|09_Data_and_Models.ipynb|[@zhyongquan](https://github.com/zhyongquan)|
+|10_Object_Oriented_ML.ipynb|[@zhyongquan](https://github.com/zhyongquan)|
+|11_Convolutional_Neural_Networks.ipynb||
+|12_Embeddings.ipynb||
+|13_Recurrent_Neural_Networks.ipynb||
+|14_Advanced_RNNs.ipynb||
+|15_Computer_Vision.ipynb|||
