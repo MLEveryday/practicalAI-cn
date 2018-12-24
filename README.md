@@ -60,8 +60,8 @@
 |04_Linear_Regression.ipynb|[@jasonhhao](https://github.com/jasonhhao)|
 |05_Logistic_Regression.ipynb|[@jasonhhao](https://github.com/jasonhhao)|
 |06_Random_Forests.ipynb|[@jasonhhao](https://github.com/jasonhhao)|
-|07_PyTorch.ipynb||
-|08_Multilayer_Perceptron.ipynb||
+|07_PyTorch.ipynb|[@amusi](https://github.com/amusi)|
+|08_Multilayer_Perceptron.ipynb|[@zhyongquan](https://github.com/zhyongquan)|
 |09_Data_and_Models.ipynb|[@zhyongquan](https://github.com/zhyongquan)|
 |10_Object_Oriented_ML.ipynb|[@zhyongquan](https://github.com/zhyongquan)|
 |11_Convolutional_Neural_Networks.ipynb||
