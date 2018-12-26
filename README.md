@@ -65,7 +65,7 @@
 |09_Data_and_Models.ipynb|[@zhyongquan](https://github.com/zhyongquan)|
 |10_Object_Oriented_ML.ipynb|[@zhyongquan](https://github.com/zhyongquan)|
 |11_Convolutional_Neural_Networks.ipynb||
-|12_Embeddings.ipynb||
+|12_Embeddings.ipynb|[@wengJJ](https://github.com/wengJJ)|
 |13_Recurrent_Neural_Networks.ipynb||
 |14_Advanced_RNNs.ipynb||
 |15_Computer_Vision.ipynb|||
