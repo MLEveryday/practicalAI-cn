@@ -32,7 +32,7 @@
 4. 登录你自己的 Google 账户；
 5. 点击工具栏上的 `复制到云端硬盘`，会在一个新的标签页打开 notebook；
 
-<img src="https://raw.githubusercontent.com/GokuMohandas/practicalAI/master/images/copy_to_drive.png">
+<img src="images/copy_to_drive.png">
 
 5. 通过去掉标题中的`副本`完成 notebook 重命名；
 6. 运行代码、修改等，所有这些都会自动保存到你的个人 Google Drive。
@@ -40,19 +40,19 @@
 ## 贡献 notebooks
 1. 修改后下载 Google Colab notebook 为 .ipynb 文件；
 
-<img src="https://raw.githubusercontent.com/GokuMohandas/practicalAI/master/images/download_ipynb.png">
+<img src="images/download_ipynb.png">
 
 2. 转到 https://github.com/GokuMohandas/practicalAI/tree/master/notebooks ；
 3. 点击 `Upload files`.
 
-<img src="https://raw.githubusercontent.com/GokuMohandas/practicalAI/master/images/upload.png">
+<img src="images/upload.png">
 
 5. 上传这个 .ipynb 文件；
 6. 写一个详细详细的提交标题和说明；
 7. 适当命名你的分支；
 8. 点击 `Propose changes`。
 
-<img src="https://raw.githubusercontent.com/GokuMohandas/practicalAI/master/images/commit.png">
+<img src="images/commit.png">
 
 ## 贡献列表
 欢迎任何人参与和完善。
